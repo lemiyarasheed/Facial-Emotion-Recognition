@@ -1,0 +1,19 @@
+Problem Definition
+The context - Why is this problem important to solve?
+The objectives - What is the intended goal?
+The key questions - What are the key questions that need to be answered?
+The problem formulation - What is it that we are trying to solve using data science?
+Data Exploration
+Data Description - What is the background of this data? What does it contain?
+Observations & Insights - What are some key patterns in the data? What does it mean for the problem formulation? What are the data treatments or pre-processing performed?
+Building various models - This involves constructing multiple relevant models to solve the problem and evaluating their performance. The models can be fine-tuned to determine whether their performance can be improved.
+Comparison of various techniques and their relative performance - How do different techniques perform? Which one is performing relatively better? Is there scope to improve the performance further?
+Proposal for the final solution design - What model do you propose to be adopted? Why is this the best solution to adopt?
+
+
+Milestone:
+Problem Definition	4
+Data Exploration	4
+Building various models	4
+Comparison of various techniques and their relative performance based on chosen Metric (Measure of success)	4
+Proposal for the final solution design	4
